@@ -1,48 +1,59 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Данияр Идиров — алгоритмы, полезные проекты и новые технологии" src="assets/header-light.svg" width="100%">
+  <img alt="Daniyar Idirov — competitive programming, web development, and hardware" src="assets/header-light.svg" width="100%">
 </picture>
 
-**Ученик НИШ · олимпиадное программирование · собственные проекты**
+I study at **Nazarbayev Intellectual Schools**, take an advanced **AP Computer Science** course, and participate in programming olympiads. Alongside school, I work on web applications and a device of my own.
 
-Привет, я Данияр, в сети — **doniar4**. Учусь на отлично, занимаюсь олимпиадным программированием и превращаю идеи в проекты. Сейчас развиваю **НИШ Хаб**, изучаю новые технологии и работаю над собственным устройством.
+## Current work
 
-<sub>Student, olympiad programmer and project builder. Learning through algorithms, web development and hands-on projects.</sub>
+- **NIS Hub** — developing a platform for school schedules, learning materials, personal tasks, and community features.
+- **Hardware** — working on my own device and learning the technologies needed to build it.
+- **Computer science** — studying algorithms and data structures, practising C++, and exploring new tools through my projects.
 
-## Сейчас в фокусе
+## Selected projects
 
-- **НИШ Хаб.** Развиваю учебную платформу, которая объединяет школьные инструменты в одном месте: расписание, учебные материалы, задачи и общение.
-- **Собственное устройство.** Работаю над устройством и изучаю технологии, которые нужны для его создания.
-- **Новые технологии.** Осваиваю инструменты веб-разработки и пробую их в своих проектах — от интерфейса до работы с данными.
-
-## Учёба и алгоритмы
-
-Олимпиадные задачи — одна из моих главных точек роста. Развиваю алгоритмическое мышление, практикую **C++**, разбираю структуры данных и уделяю внимание математике.
-
-Параллельно учусь на отлично и прохожу углублённый курс **AP Computer Science**. Хочу лучше понимать основы информатики и применять их за пределами учебных задач.
-
-## Проекты
-
-| Проект | Что делаю |
+| Project | Work |
 | :--- | :--- |
-| **[НИШ Хаб](https://github.com/doniar4/NIS-Hub)** | Учебная платформа для школьной повседневности: материалы, расписание, личные задачи и сообщество. |
-| **[AquaGuardian](https://github.com/doniar4/AquaQuardian)** | Прототип интерфейса для представления и анализа данных о подземных водах Казахстана. |
-| **[AboutMe](https://github.com/doniar4/AboutMe)** | Личный сайт-портфолио, на котором практикую вёрстку, оформление и взаимодействие с интерфейсом. |
+| **[NIS Hub](https://github.com/doniar4/NIS-Hub)** | A school platform with a library, schedules, tasks, and community tools. I work on its interface and features. |
+| **[AquaGuardian](https://github.com/doniar4/AquaQuardian)** | An interface prototype for presenting and analysing groundwater data in Kazakhstan. |
+| **[AboutMe](https://github.com/doniar4/AboutMe)** | A personal portfolio website built to practise layout, visual design, and interactions. |
 
-## Технологии
+## Study & practice
 
-Инструменты, с которыми работаю и продолжаю разбираться:
+I maintain strong academic results at NIS while taking an advanced AP Computer Science course. Competitive programming is a regular part of my studies, with a focus on **C++**, **algorithms**, **data structures**, and **mathematics**.
 
-**Алгоритмы** &nbsp; `C++` · структуры данных · решение задач<br>
+I also use Python and web development tools for practical projects. My hardware project gives me another way to learn beyond the classroom.
+
+## Tools
+
+Technologies I use and continue to learn:
+
+**Algorithms** &nbsp; `C++` · data structures · problem solving<br>
 **Web** &nbsp; `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`<br>
-**Данные и прототипы** &nbsp; `Python` · `Supabase` · `PostgreSQL`<br>
-**Рабочий процесс** &nbsp; `Git` · `GitHub` · тестирование
+**Data & prototypes** &nbsp; `Python` · `Supabase` · `PostgreSQL`<br>
+**Development** &nbsp; `Git` · `GitHub` · testing
 
-Мне важны понятные интерфейсы и аккуратная разработка: собрать рабочую основу, проверить её и постепенно улучшать.
+## Contact
+
+For project ideas, hackathons, or collaboration, contact me on Telegram or Instagram.
+
+<a href="https://t.me/doniar4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg">
+    <img alt="Telegram — @doniar4" src="assets/contact-telegram-light.svg" width="280" height="84">
+  </picture>
+</a>
+<a href="https://www.instagram.com/_ddnr_4/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light.svg">
+    <img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-light.svg" width="280" height="84">
+  </picture>
+</a>
 
 ---
 
-Интересны **совместные проекты, хакатоны и новые задачи**, в которых можно научиться чему-то на практике.
-
-[Все репозитории →](https://github.com/doniar4?tab=repositories) &nbsp; · &nbsp; [Сайт-портфолио: исходники](https://github.com/doniar4/AboutMe)
+[Repositories](https://github.com/doniar4?tab=repositories) &nbsp; · &nbsp; [Portfolio source](https://github.com/doniar4/AboutMe)
