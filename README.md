@@ -22,7 +22,9 @@ I study at **Nazarbayev Intellectual Schools**, take an advanced **AP Computer S
 
 ## Study & practice
 
-I maintain strong academic results at NIS while taking an advanced AP Computer Science course. Competitive programming is a regular part of my studies, with a focus on **C++**, **algorithms**, **data structures**, and **mathematics**.
+**GPA: 4.93** &nbsp; · &nbsp; **AP Computer Science**
+
+I maintain strong academic results at NIS. Competitive programming is a regular part of my studies, with a focus on **C++**, **algorithms**, **data structures**, and **mathematics**.
 
 I also use Python and web development tools for practical projects. My hardware project gives me another way to learn beyond the classroom.
 
