@@ -4,58 +4,70 @@
   <img alt="Daniyar Idirov — competitive programming, web development, and hardware" src="assets/header-light-v2.svg" width="100%">
 </picture>
 
-I study at **Nazarbayev Intellectual Schools**, take an advanced **AP Computer Science** course, and participate in programming olympiads. Alongside school, I work on web applications and a device of my own.
+NIS student working on web applications and a device of my own. Learning through projects and programming olympiads.
 
-## Current work
+## In progress
 
-- **NIS Hub** — developing a platform for school schedules, learning materials, personal tasks, and community features.
-- **Hardware** — working on my own device and learning the technologies needed to build it.
-- **Computer science** — studying algorithms and data structures, and exploring new tools through my projects.
+<a href="https://github.com/sNibaAdeka/snibagrades">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-nis-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-nis-light.svg">
+  <img alt="NIS Hub — schedules, learning materials, and community. Private team project." src="assets/project-nis-light.svg" width="410" height="212">
+</picture>
+</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-device-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-device-light.svg">
+  <img alt="Own device — a personal hardware project in development." src="assets/project-device-light.svg" width="410" height="212">
+</picture>
 
-## Selected projects
+<details>
+<summary>More projects</summary>
 
-| Project | Work |
-| :--- | :--- |
-| **[NIS Hub](https://github.com/doniar4/NIS-Hub)** | A school platform with a library, schedules, tasks, and community tools. I work on its interface and features. |
-| **[AquaGuardian](https://github.com/doniar4/AquaQuardian)** | An interface prototype for presenting and analysing groundwater data in Kazakhstan. |
-| **[AboutMe](https://github.com/doniar4/AboutMe)** | A personal portfolio website built to practise layout, visual design, and interactions. |
+- **[AquaGuardian](https://github.com/doniar4/AquaQuardian)** — an interface prototype for groundwater data in Kazakhstan.
+- **[AboutMe](https://github.com/doniar4/AboutMe)** — a personal website for practising layout, design, and interactions.
 
-## Study & practice
+</details>
 
-**GPA: 4.93** &nbsp; · &nbsp; **AP Computer Science**
+## Study & workspace
 
-I maintain strong academic results at NIS. Competitive programming is a regular part of my studies, with a focus on **algorithms**, **data structures**, and **mathematics**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/study-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/study-light.svg">
+  <img alt="GPA 4.93 · Advanced AP Computer Science · Nazarbayev Intellectual Schools · Programming olympiads." src="assets/study-light.svg" width="410" height="212">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workspace-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/workspace-light.svg">
+  <img alt="Mac — my everyday development workspace. VS Code, Git, and GitHub." src="assets/workspace-light.svg" width="410" height="212">
+</picture>
 
-I also use Python and web development tools for practical projects. My hardware project gives me another way to learn beyond the classroom.
+## Toolbox
 
-## Tools
+Tools I use and continue to learn.
 
-Technologies I use and continue to learn:
-
-**Algorithms** &nbsp; data structures · problem solving<br>
-**Web** &nbsp; `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`<br>
-**Data & prototypes** &nbsp; `Python` · `Supabase` · `PostgreSQL`<br>
-**Development** &nbsp; `Git` · `GitHub` · testing
+**Web** &nbsp; `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js`<br>
+**Data & prototypes** &nbsp; `Python` `Supabase` `PostgreSQL`<br>
+**Practice** &nbsp; algorithms · data structures · problem solving
 
 ## Contact
 
-For project ideas, hackathons, or collaboration, contact me on Telegram or Instagram.
+Project ideas, hackathons, or collaboration.
 
 <a href="https://t.me/doniar4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg">
-    <img alt="Telegram — @doniar4" src="assets/contact-telegram-light.svg" width="280" height="84">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light-v2.svg">
+    <img alt="Telegram — @doniar4" src="assets/contact-telegram-light-v2.svg" width="410" height="84">
   </picture>
 </a>
 <a href="https://www.instagram.com/_ddnr_4/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light.svg">
-    <img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-light.svg" width="280" height="84">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light-v2.svg">
+    <img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-light-v2.svg" width="410" height="84">
   </picture>
 </a>
 
----
 
 [Repositories](https://github.com/doniar4?tab=repositories) &nbsp; · &nbsp; [Portfolio source](https://github.com/doniar4/AboutMe)
