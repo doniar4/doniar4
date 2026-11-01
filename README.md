@@ -8,48 +8,41 @@ NIS student working on web applications and a device of my own. Learning through
 
 ## In progress
 
-<a href="https://github.com/sNibaAdeka/snibagrades"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-nis-light.svg"><img alt="NIS Hub — schedules, learning materials, and community. Private team project." src="assets/project-nis-light.svg" width="410" height="212"></picture></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-device-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-device-light.svg">
-  <img alt="Own device — a personal hardware project in development." src="assets/project-device-light.svg" width="410" height="212">
-</picture>
+<p><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/building-v2-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/building-v2-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/building-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/building-v2-light.svg"><img alt="NIS Hub: a private team school platform. Own device: my hardware project in development." src="assets/building-v2-light.svg" width="100%"></picture></p>
 
 <details>
-<summary>More projects</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-index-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-index-light.svg"><img alt="Explore projects — three repositories." src="assets/project-index-light.svg" width="236"></picture></summary>
 
-- **[AquaGuardian](https://github.com/doniar4/AquaQuardian)** — an interface prototype for groundwater data in Kazakhstan.
-- **[AboutMe](https://github.com/doniar4/AboutMe)** — a personal website for practising layout, design, and interactions.
+<p><a href="https://github.com/sNibaAdeka/snibagrades"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-nis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-nis-light.svg"><img alt="NIS Hub — open the private team repository." src="assets/index-nis-light.svg" width="254"></picture></a><br>
+<sub>Current team project · private repository</sub></p>
+
+<p><a href="https://github.com/doniar4/AquaQuardian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-aqua-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-aqua-light.svg"><img alt="AquaGuardian — open the repository." src="assets/index-aqua-light.svg" width="254"></picture></a><br>
+<sub>An interface prototype for groundwater data in Kazakhstan.</sub></p>
+
+<p><a href="https://github.com/doniar4/AboutMe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-portfolio-light.svg"><img alt="AboutMe — open the portfolio repository." src="assets/index-portfolio-light.svg" width="254"></picture></a><br>
+<sub>A personal website for exploring layout, visual design, and interactions.</sub></p>
 
 </details>
 
 ## Study & workspace
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/study-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/study-light.svg">
-  <img alt="GPA 4.93 · Advanced AP Computer Science · Nazarbayev Intellectual Schools · Programming olympiads." src="assets/study-light.svg" width="410" height="212">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/workspace-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/workspace-light.svg">
-  <img alt="Mac — my everyday development workspace. VS Code, Git, and GitHub." src="assets/workspace-light.svg" width="410" height="212">
-</picture>
+<p><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/study-workspace-v2-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/study-workspace-v2-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/study-workspace-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/study-workspace-v2-light.svg"><img alt="GPA 4.93. AP Computer Science. NIS Astana Nura transfer in progress. Programming olympiads. Apple Mac workspace with VS Code, Git, and GitHub." src="assets/study-workspace-v2-light.svg" width="100%"></picture></p>
 
 ## Toolbox
 
-Tools I use and continue to learn.
+<p><sub>01</sub> <strong>Web development</strong><br>HTML · CSS · JavaScript · TypeScript<br>React · Next.js</p>
 
-**Web** &nbsp; `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js`<br>
-**Data & prototypes** &nbsp; `Python` `Supabase` `PostgreSQL`<br>
-**Practice** &nbsp; algorithms · data structures · problem solving
+<p><sub>02</sub> <strong>Data &amp; prototypes</strong><br>Python · Supabase · PostgreSQL</p>
 
-## Contact
+<p><sub>03</sub> <strong>Problem solving</strong><br>Algorithms · data structures · mathematics</p>
 
-Project ideas, hackathons, or collaboration.
+<sub>Tools I use and continue to learn.</sub>
 
-<a href="https://t.me/doniar4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark-v2.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light-v2.svg"><img alt="Telegram — @doniar4" src="assets/contact-telegram-light-v2.svg" width="410" height="84"></picture></a>
-<a href="https://www.instagram.com/_ddnr_4/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark-v2.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light-v2.svg"><img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-light-v2.svg" width="410" height="84"></picture></a>
+## Contact me
 
+<p><strong>Open to ideas and collaboration.</strong><br>Have a project, a hackathon, or something worth building? Send me a message.</p>
 
-[Repositories](https://github.com/doniar4?tab=repositories) &nbsp; · &nbsp; [Portfolio source](https://github.com/doniar4/AboutMe)
+<p><a href="https://t.me/doniar4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-flat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-flat-light.svg"><img alt="Telegram — @doniar4" src="assets/contact-telegram-flat-light.svg" width="310"></picture></a>
+<a href="https://www.instagram.com/_ddnr_4/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-flat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-flat-light.svg"><img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-flat-light.svg" width="310"></picture></a></p>
+
+<sub>[All repositories ↗](https://github.com/doniar4?tab=repositories) &nbsp; · &nbsp; [Portfolio source ↗](https://github.com/doniar4/AboutMe)</sub>
