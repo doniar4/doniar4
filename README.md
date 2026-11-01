@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Daniyar Idirov — competitive programming, web development, and hardware" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light-v2.svg">
+  <img alt="Daniyar Idirov — competitive programming, web development, and hardware" src="assets/header-light-v2.svg" width="100%">
 </picture>
 
 I study at **Nazarbayev Intellectual Schools**, take an advanced **AP Computer Science** course, and participate in programming olympiads. Alongside school, I work on web applications and a device of my own.
