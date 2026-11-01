@@ -8,13 +8,7 @@ NIS student working on web applications and a device of my own. Learning through
 
 ## In progress
 
-<a href="https://github.com/sNibaAdeka/snibagrades">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-nis-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/project-nis-light.svg">
-  <img alt="NIS Hub — schedules, learning materials, and community. Private team project." src="assets/project-nis-light.svg" width="410" height="212">
-</picture>
-</a>
+<a href="https://github.com/sNibaAdeka/snibagrades"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-nis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-nis-light.svg"><img alt="NIS Hub — schedules, learning materials, and community. Private team project." src="assets/project-nis-light.svg" width="410" height="212"></picture></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-device-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/project-device-light.svg">
@@ -54,20 +48,8 @@ Tools I use and continue to learn.
 
 Project ideas, hackathons, or collaboration.
 
-<a href="https://t.me/doniar4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark-v2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light-v2.svg">
-    <img alt="Telegram — @doniar4" src="assets/contact-telegram-light-v2.svg" width="410" height="84">
-  </picture>
-</a>
-<a href="https://www.instagram.com/_ddnr_4/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark-v2.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light-v2.svg">
-    <img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-light-v2.svg" width="410" height="84">
-  </picture>
-</a>
+<a href="https://t.me/doniar4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark-v2.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light-v2.svg"><img alt="Telegram — @doniar4" src="assets/contact-telegram-light-v2.svg" width="410" height="84"></picture></a>
+<a href="https://www.instagram.com/_ddnr_4/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark-v2.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light-v2.svg"><img alt="Instagram — @_ddnr_4" src="assets/contact-instagram-light-v2.svg" width="410" height="84"></picture></a>
 
 
 [Repositories](https://github.com/doniar4?tab=repositories) &nbsp; · &nbsp; [Portfolio source](https://github.com/doniar4/AboutMe)
