@@ -10,7 +10,7 @@ I study at **Nazarbayev Intellectual Schools**, take an advanced **AP Computer S
 
 - **NIS Hub** — developing a platform for school schedules, learning materials, personal tasks, and community features.
 - **Hardware** — working on my own device and learning the technologies needed to build it.
-- **Computer science** — studying algorithms and data structures, practising C++, and exploring new tools through my projects.
+- **Computer science** — studying algorithms and data structures, and exploring new tools through my projects.
 
 ## Selected projects
 
@@ -24,7 +24,7 @@ I study at **Nazarbayev Intellectual Schools**, take an advanced **AP Computer S
 
 **GPA: 4.93** &nbsp; · &nbsp; **AP Computer Science**
 
-I maintain strong academic results at NIS. Competitive programming is a regular part of my studies, with a focus on **C++**, **algorithms**, **data structures**, and **mathematics**.
+I maintain strong academic results at NIS. Competitive programming is a regular part of my studies, with a focus on **algorithms**, **data structures**, and **mathematics**.
 
 I also use Python and web development tools for practical projects. My hardware project gives me another way to learn beyond the classroom.
 
@@ -32,7 +32,7 @@ I also use Python and web development tools for practical projects. My hardware 
 
 Technologies I use and continue to learn:
 
-**Algorithms** &nbsp; `C++` · data structures · problem solving<br>
+**Algorithms** &nbsp; data structures · problem solving<br>
 **Web** &nbsp; `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`<br>
 **Data & prototypes** &nbsp; `Python` · `Supabase` · `PostgreSQL`<br>
 **Development** &nbsp; `Git` · `GitHub` · testing
