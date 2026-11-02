@@ -26,7 +26,7 @@ NIS student working on web applications and a device of my own. Learning through
 
 ## Study & workspace
 
-<p><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/study-workspace-v2-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/study-workspace-v2-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/study-workspace-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/study-workspace-v2-light.svg"><img alt="GPA 4.93. AP Computer Science. NIS Astana Nura transfer in progress. Programming olympiads. Apple Mac workspace with VS Code, Git, and GitHub." src="assets/study-workspace-v2-light.svg" width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/study-workspace-v2-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/study-workspace-v2-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/study-workspace-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/study-workspace-v2-light.svg"><img alt="GPA 4.93. AP Computer Science. NIS Astana Nura transfer in progress. Programming olympiads. Developer workspace with VS Code, Git, and GitHub." src="assets/study-workspace-v2-light.svg" width="100%"></picture></p>
 
 ## Toolbox
 
