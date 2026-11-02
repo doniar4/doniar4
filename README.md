@@ -13,14 +13,11 @@ NIS student working on web applications and a device of my own. Learning through
 <details>
 <summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-index-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-index-light.svg"><img alt="Explore projects — three repositories." src="assets/project-index-light.svg" width="236"></picture></summary>
 
-<p><a href="https://github.com/sNibaAdeka/snibagrades"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-nis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-nis-light.svg"><img alt="NIS Hub — open the private team repository." src="assets/index-nis-light.svg" width="254"></picture></a><br>
-<sub>Current team project · private repository</sub></p>
+<p><a href="https://github.com/sNibaAdeka/snibagrades"><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/index-nis-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/index-nis-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/index-nis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-nis-light.svg"><img alt="NIS Hub — Current team project · private repository" src="assets/index-nis-light.svg" width="100%"></picture></a></p>
 
-<p><a href="https://github.com/doniar4/AquaQuardian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-aqua-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-aqua-light.svg"><img alt="AquaGuardian — open the repository." src="assets/index-aqua-light.svg" width="254"></picture></a><br>
-<sub>An interface prototype for groundwater data in Kazakhstan.</sub></p>
+<p><a href="https://github.com/doniar4/AquaQuardian"><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/index-aqua-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/index-aqua-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/index-aqua-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-aqua-light.svg"><img alt="AquaGuardian — Groundwater data interface for Kazakhstan." src="assets/index-aqua-light.svg" width="100%"></picture></a></p>
 
-<p><a href="https://github.com/doniar4/AboutMe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-portfolio-light.svg"><img alt="AboutMe — open the portfolio repository." src="assets/index-portfolio-light.svg" width="254"></picture></a><br>
-<sub>A personal website for exploring layout, visual design, and interactions.</sub></p>
+<p><a href="https://github.com/doniar4/AboutMe"><picture><source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="assets/index-portfolio-mobile-dark.svg"><source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="assets/index-portfolio-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/index-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-portfolio-light.svg"><img alt="AboutMe — A personal website for layout, design, and interactions." src="assets/index-portfolio-light.svg" width="100%"></picture></a></p>
 
 </details>
 
